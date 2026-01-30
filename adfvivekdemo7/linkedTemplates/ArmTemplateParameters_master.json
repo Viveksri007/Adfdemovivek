@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "adfvivekdemo7"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
